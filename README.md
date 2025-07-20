@@ -69,10 +69,10 @@ Nous avons filtré les films avec :
 
 ## Recommandations
 
-1 Produire principalement des **drames et thrillers avec une bonne narration**.
+1) Produire principalement des **drames et thrillers avec une bonne narration**.
 
-2 Viser une **note IMDb supérieure à 7**.
+2) Viser une **note IMDb supérieure à 7**.
 
-3 Éviter les projets à risque avec peu d’intérêt public identifiable.
+3) Éviter les projets à risque avec peu d’intérêt public identifiable.
 
 
